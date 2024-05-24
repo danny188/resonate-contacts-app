@@ -1,8 +1,7 @@
-# Getting Started with Create React App
+# Demo 
+Please visit https://resonate-contacts-app-ruddy.vercel.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+# To run the app locally
 
 In the project directory, you can run:
 
